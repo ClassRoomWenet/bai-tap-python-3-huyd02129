@@ -1,4 +1,4 @@
-def square_area():
+def test_square_area():
     try:
         # Nhập dữ liệu từ bàn phím
         side = float(input("Nhập độ dài cạnh hình vuông: "))
